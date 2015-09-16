@@ -1,0 +1,9 @@
+c:\users\angel\documents\visual studio 2013\Projects\Figuras_Geometricas\Figuras_Geometricas\bin\Debug\Figuras_Geometricas.exe.config
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\Figuras_Geometricas\Figuras_Geometricas\bin\Debug\Figuras_Geometricas.exe
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\Figuras_Geometricas\Figuras_Geometricas\bin\Debug\Figuras_Geometricas.pdb
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\Figuras_Geometricas\Figuras_Geometricas\obj\Debug\Figuras_Geometricas.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\Figuras_Geometricas\Figuras_Geometricas\obj\Debug\Figuras_Geometricas.Figuras.resources
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\Figuras_Geometricas\Figuras_Geometricas\obj\Debug\Figuras_Geometricas.Properties.Resources.resources
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\Figuras_Geometricas\Figuras_Geometricas\obj\Debug\Figuras_Geometricas.csproj.GenerateResource.Cache
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\Figuras_Geometricas\Figuras_Geometricas\obj\Debug\Figuras_Geometricas.exe
+C:\Users\Angel\Documents\Visual Studio 2013\Projects\Figuras_Geometricas\Figuras_Geometricas\obj\Debug\Figuras_Geometricas.pdb
